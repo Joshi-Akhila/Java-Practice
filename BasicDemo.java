@@ -1,7 +1,7 @@
 class BasicDemo {
 
 	static void print() {
-		System.out.println("\n\nInside print ...."); // New line Sequences(Advance curser to begining of next line)
+		// New line Sequences(Advance curser to begining of next line)
 System.out.println(" ..Hello..");
 System.out.println(); // Print empty line 
 System.out.println("Hello, World!!");
