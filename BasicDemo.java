@@ -1,12 +1,13 @@
 class BasicDemo {
 
 	static void print() {
-		// New line Sequences(Advance curser to begining of next line)
-System.out.println(" ..Hello..");
-System.out.println(); // Print empty line 
-System.out.println("Hello, World!!");
-System.out.print("Good Afternoon"); // Cursor stayed after the printing string 
-System.out.print(" "); // print space
+		
+          System.out.println("\n\n..Hello..");// New line Sequences(Advance curser to begining of next line)
+          System.out.println(" ..Hello..");
+          System.out.println(); // Print empty line 
+          System.out.println("Hello, World!!");
+          System.out.print("Good Afternoon"); // Cursor stayed after the printing string 
+          System.out.print(" "); // print space
 }
 		static void primitives() {
 		System.out.println("\n\n Inside primitives ....");
