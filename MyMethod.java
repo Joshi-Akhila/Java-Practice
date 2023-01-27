@@ -2,14 +2,15 @@ import java.util.Scanner;
 
 public class MyMethod {
 	public static void main(String[] args) { 
-	
+	//test for gits
 	    Scanner ex =new Scanner(System.in);
 		System.out.println("enter first value");
 		int x =ex.nextInt();
 
 		System.out.println("enter second value");
 		int y =ex.nextInt();
-
+		
+	        System.out.println();
 		System.out.println(Addition(x,y));
 		System.out.println();
 		System.out.println(Substraction(x,y));
